@@ -7,6 +7,7 @@ You can directly support me, Casimiro Ferreira (@JarbasAl) via [liberapay](https
 - 100% transparent development, from the first commit
 - early access to new OVOS/Hivemind technologies, possibly for years before they become public
 - direct support via github issues or matrix chat private messages
+- [suggest and vote](https://github.com/HiveMindInsiders/feature-requests) on which feature gets developed next
 
 The terms of this sponsorware model are still being defined, you can read the initial idea [here](https://github.com/HiveMindInsiders/.github/blob/main/sponsorware.md)
 
