@@ -2,7 +2,7 @@
 
 Welcome to HiveMind Insiders! In this github organization you will get exclusive access to [OpenVoiceOS](https://github.com/orgs/OpenVoiceOS) and [HiveMind](https://github.com/orgs/JarbasHiveMind) features
 
-You can directly support me, Casimiro Ferreira (@JarbasAl) via [liberapay](https://liberapay.com/jarbasAI) or paypal, besides ensuring the future of OpenVoiceOS and HiveMind by allowing me to work on those projects you will get:
+You can directly support me, Casimiro Ferreira (@JarbasAl) via [liberapay](https://liberapay.com/jarbasAI) or [paypal](https://paypal.me/AnaIsabelFerreira), besides ensuring the future of OpenVoiceOS and HiveMind by allowing me to work on those projects you will get:
 
 - 100% transparent development, from the first commit
 - early access to new OVOS/Hivemind technologies, possibly for years before they become public
