@@ -9,14 +9,22 @@ You can directly support me, Casimiro Ferreira (@JarbasAl) via [liberapay](https
 - direct support via github issues or matrix chat private messages
 - [suggest and vote](https://github.com/HiveMindInsiders/feature-requests) on which feature gets developed next
 
+
+## Current Goal
+
+> **A small step** - get 10 sponsors
+
 The terms of this sponsorware model are still being defined, you can read the initial idea [here](https://github.com/HiveMindInsiders/.github/blob/main/sponsorware.md)
 
-> currently this is a manual process, please ping me if you are interested in getting access to HiveMind Insiders jarbasai@mailfence.com
-
-what's already waiting for you behind the curtain?
-
-![image](https://github.com/user-attachments/assets/a839011c-b078-4020-a2cc-5f2c521ac17d)
+The current goal is not only to evaluate the viability of this approach but also to involve the community from the start, together we can decide the next steps
 
 > for the foreseable future there is no minimum donation amount, pay what you want!
 
+what's already waiting for you [behind the curtain](https://github.com/HiveMindInsiders/feature-tracker/issues)?
+
+![image](https://github.com/user-attachments/assets/cb423aba-0015-49f8-885a-25c82a8d70e3)
+
+> currently getting access is a manual process, please ping me if you are interested in getting access to HiveMind Insiders jarbasai@mailfence.com
+
 Please understand that I may not answer questions in the public chat channels, specially in an "acceptable" timeframe. the community is super helpful and should step in, but if you expect timely support from the lead developer consider supporting me directly
+
