@@ -20,7 +20,7 @@ The current goal is not only to evaluate the viability of this approach but also
 
 > for the foreseable future there is no minimum donation amount, pay what you want!
 
-what's already waiting for you [behind the curtain](https://github.com/HiveMindInsiders/feature-tracker/issues)?
+what's already waiting for you [behind the curtain]https://github.com/orgs/HiveMindInsiders/discussions)?
 
 ![image](https://github.com/user-attachments/assets/cb423aba-0015-49f8-885a-25c82a8d70e3)
 
