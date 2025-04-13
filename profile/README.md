@@ -8,11 +8,11 @@ You can directly support me, Casimiro Ferreira (@JarbasAl) via [liberapay](https
 - early access to new OVOS/Hivemind technologies, possibly for years before they become public
 - direct support via github issues or matrix chat private messages
 - [suggest and vote](https://github.com/HiveMindInsiders/feature-requests) on which feature gets developed next
-
+- get an invite to HiveMindInsider private matrix chatroom
 
 ## Current Goal
 
-> **A small step** - get 10 sponsors
+> **A small step** - get 10 sponsors or 500€ in donations
 
 The terms of this sponsorware model are still being defined, you can read the initial idea [here](https://github.com/HiveMindInsiders/.github/blob/main/sponsorware.md)
 
@@ -20,7 +20,25 @@ The current goal is not only to evaluate the viability of this approach but also
 
 > for the foreseable future there is no minimum donation amount, pay what you want!
 
-what's already waiting for you [behind the curtain]https://github.com/orgs/HiveMindInsiders/discussions)?
+once we reach 10 sponsors or receive 500€ in donations the following repositories will be made public:
+
+- https://github.com/HiveMindInsiders/ovos-yaml-editor
+- https://github.com/HiveMindInsiders/ovos-admin-webui
+- https://github.com/HiveMindInsiders/hivemind-admin-webui
+- https://github.com/HiveMindInsiders/wyoming-ovos-stt
+- https://github.com/HiveMindInsiders/wyoming-ovos-tts
+- https://github.com/HiveMindInsiders/wyoming-ovos-wakeword
+- https://github.com/HiveMindInsiders/ovos-wyoming-docker
+
+![image](https://github.com/user-attachments/assets/235bd955-d5ba-4cba-a1bc-9631d677f23b)
+
+![image](https://github.com/user-attachments/assets/c9cd5a9d-c985-4ad8-863a-98cea7f5b74f)
+
+![image](https://github.com/user-attachments/assets/fd43ad21-7697-4b16-b464-46e5bca32a1d)
+
+## Early acess / Exclusive features
+
+what's else is waiting for you [behind the curtain](https://github.com/orgs/HiveMindInsiders/discussions)?
 
 ![image](https://github.com/user-attachments/assets/cb423aba-0015-49f8-885a-25c82a8d70e3)
 
