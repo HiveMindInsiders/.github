@@ -51,7 +51,7 @@ Once the goal is reached, the following will be open-sourced:
 Wondering what’s behind the curtain?  
 Check out the [discussions](https://github.com/orgs/HiveMindInsiders/discussions) for sneak peeks and exclusive content:
 
-![sneakpeek](https://github.com/user-attachments/assets/cb423aba-0015-49f8-885a-25c82a8d70e3)
+![sneakpeek](https://github.com/user-attachments/assets/bf9046c2-c35f-42c3-826f-c4b360016c41)
 
 ---
 
